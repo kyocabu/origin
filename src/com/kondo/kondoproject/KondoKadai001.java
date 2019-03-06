@@ -16,7 +16,7 @@ public class KondoKadai001 {
 			throw new IllegalArgumentException("引数がNULLです");
 		}
 
-		int changeNum = 0;//
+		int changeNum = 0;//test
 		try {
 			for (int i = 0; i < nums.length; i++) {
 				try {
